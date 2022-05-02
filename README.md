@@ -39,7 +39,7 @@ Manage Jenkins --> Configure system -->  Publish over SSH --> add Docker server 
 6. Create Jenkins job 
 
 A) Source Code Management  
- Repository : https://github.com/bareliya/jenkinproject.git  
+ Repository : https://github.com/Prachi-Thakre/Jenkin-project.git  
  Branches to build : */main  
 
 B) Build
