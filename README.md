@@ -53,11 +53,11 @@ C) send files or execute commands over SSH
  Remote directory	: `//opt//docker`  
  Exec command[s]	: 
   ```sh
-  docker stop valaxy_demo;
-  docker rm -f valaxy_demo;
-  docker image rm -f valaxy_demo;
+  docker stop jenkin_project;
+  docker rm -f jenkin_project;
+  docker image rm -f jenkin_project;
   cd /opt/docker;
-  docker build -t valaxy_demo .
+  docker build -t jenkin_project .
   ```
 
 D) send files or execute commands over SSH  
